@@ -20,7 +20,6 @@ Research :
 
 ### Misc
 - 💬 Ask me about ... fault-tolerant storage and database systems
-- 💬 Ask me about ... Applied Machine learning on limited datasets
 - How to reach me: ... [mjaycs1@gmail.com](mailto:mjaycs1@gmail.com)
 
 #### *PPT Live in action*
