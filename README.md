@@ -8,11 +8,8 @@ Hello there 👋
 
 
 ### About Mrityunjay
-**(Current) Software Engineer @Microsoft, Mountain View, California**
-I work in powerpoint team where I help to write scalable backend code. 
-
-My primary area of focus are about resiliency, scalability and building complex distributed systems.
-- Resilient microservices at scale
+**(Current) Software Engineer @Microsoft, California**
+I am a passionate software engineer working at Microsoft in the PowerPoint team. My primary focus is on writing scalable backend code and contributing to the development of complex distributed systems. I specialize in areas such as resiliency and scalability.
 
 Research :
 - Rolis: A software approach to efficiently replicating multi-core transactions [Paper](https://dl.acm.org/doi/pdf/10.1145/3492321.3519561)
@@ -36,8 +33,8 @@ Research :
 ---
 
 Fun Facts:
-1. I am enjoying learning spanish. palabra favorita : recipiente
-2. When I am AFK, you can find me listening to audio book or hiking trails.
+1. I am enjoying learning spanish. My favorite word is "recipiente."
+2. When I am away from the keyboard, you can find me either listening to audiobooks or exploring hiking trails.
 
 
 How to pronounce my name ?
