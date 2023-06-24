@@ -9,6 +9,7 @@ Hello there 👋
 
 ### About Mrityunjay
 **(Current) Software Engineer @Microsoft, California**
+
 I am a passionate software engineer working at Microsoft in the PowerPoint team. My primary focus is on writing scalable backend code and contributing to the development of complex distributed systems. I specialize in areas such as resiliency and scalability.
 
 Research :
