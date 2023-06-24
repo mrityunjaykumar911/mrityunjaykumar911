@@ -2,9 +2,9 @@
 
 Hello there 👋
 
-[![Web](https://github.com/mrityunjaykumar911/mrityunjaykumar911/assets/18567270/821230ed-06fb-4c2e-87de-b08cad589f00)](https://mrityunjaykumar911.github.io/)
-[![Twitter](https://github.com/mrityunjaykumar911/mrityunjaykumar911/assets/18567270/28af1ebf-f436-4036-8c0f-93a7f02148f2)](https://twitter.com/imrityunjayk)
-[![LinkedIn](https://github.com/mrityunjaykumar911/mrityunjaykumar911/assets/18567270/ea6ea27e-3d24-4f5f-af1f-bf234255a50f)](https://www.linkedin.com/in/mrkumar20/)
+[![Web](https://github-production-user-asset-6210df.s3.amazonaws.com/18567270/248499253-821230ed-06fb-4c2e-87de-b08cad589f00.png)](https://mrityunjaykumar911.github.io/)
+[![Twitter](https://github-production-user-asset-6210df.s3.amazonaws.com/18567270/248499289-28af1ebf-f436-4036-8c0f-93a7f02148f2.png)](https://twitter.com/imrityunjayk)
+[![LinkedIn](https://github-production-user-asset-6210df.s3.amazonaws.com/18567270/248499309-ea6ea27e-3d24-4f5f-af1f-bf234255a50f.png)](https://www.linkedin.com/in/mrkumar20/)
 
 
 ### About Mrityunjay
