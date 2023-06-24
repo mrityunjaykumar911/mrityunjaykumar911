@@ -24,7 +24,7 @@ Research :
 
 #### *PPT Live in action*
 
-[![PPT Live in Action](https://github.com/mrityunjaykumar911/mrityunjaykumar911/assets/18567270/063c1baa-4942-4a19-853f-9daa1fa53580)](https://youtu.be/qrBoC5Ct0Kc?t=27)
+[![PPT Live in Action](https://github-production-user-asset-6210df.s3.amazonaws.com/18567270/248500388-063c1baa-4942-4a19-853f-9daa1fa53580.png)](https://youtu.be/qrBoC5Ct0Kc?t=27)
 
 #### Blogs & misc
 - [https://blog-mjay.firebaseapp.com/](https://blog-mjay.firebaseapp.com/)
